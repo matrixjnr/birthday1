@@ -2,7 +2,7 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: https://matrixjnr.github.io/birthday/
+URL: https://matrixjnr.github.io/birthday1/
 
 Technology Used: HTML5 CSS3 jQuery
 
